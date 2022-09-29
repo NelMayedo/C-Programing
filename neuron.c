@@ -1,3 +1,4 @@
+// This is a program that computes the sigmoid function
 #include <stdio.h>
 #include <math.h>
 
