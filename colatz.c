@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// Just a coment...
 //Function prototype
 
 int getStart();
